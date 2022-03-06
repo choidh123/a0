@@ -1,0 +1,3 @@
+post /token
+-H "Content-Type: application/json” $https://web-engineering.big.tuwien.ac.at/s22/a0
+{ "matnr": "11905169" }
